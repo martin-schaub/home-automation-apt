@@ -1,0 +1,21 @@
+Package: homeautomation
+Architecture: arm64
+Version: 0.0.2
+Priority: optional
+Section: misc
+Maintainer: Martin Schaub <martin.schaub@gmail.com>
+Installed-Size: 10202
+Depends: systemd, passwd, ca-certificates
+Filename: pool/main/h/homeautomation/homeautomation_0.0.2_arm64.deb
+Size: 4729392
+MD5sum: a63382f83772bcb0bd41a1cc21a7e7d9
+SHA1: 5b56848eaeb2bb6b3bdd423af7f5d8ca9d8f26a4
+SHA256: 0779546c2e7e5a9b0cf7bfb270a5c966d5e64ee009cce1abdf078a8c35882b90
+SHA512: b1424b3121389f2c63401943612e4281cbedb0c4f23060366bc3cfc7bb10b52f9f288c38b5fe2f61ffedd2feedbae9d23efa209ed3bf57a7747a4493b7854b35
+Homepage: https://github.com/martin-schaub/home-automation
+Description: Home automation service (Somfy, Shelly, Fronius, Bluelink)
+ Polls Somfy blinds, Shelly awnings, a Fronius inverter and Swiss weather
+ data, runs independent automations against them, and serves a minimal
+ authenticated Web UI. Runs as a systemd service under a dedicated
+ unprivileged user; configuration lives in /etc/homeautomation.
+

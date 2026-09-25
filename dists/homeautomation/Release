@@ -1,0 +1,27 @@
+Architectures: amd64 arm64
+Codename: homeautomation
+Components: main
+Date: Fri, 25 Sep 2026 19:28:34 +0000
+Label: home-automation
+Origin: home-automation
+Suite: homeautomation
+MD5Sum:
+ eb07eea0bc19e9d211b33cacc949bfbf              996 main/binary-amd64/Packages
+ f08c4b60f507ee02a4b5f17d87d6e975              649 main/binary-amd64/Packages.gz
+ 2dd6c83e9bdb52e8ed6bc7490a5c0502              996 main/binary-arm64/Packages
+ 4a058f7211b16f18ae4bc5e6406eb499              652 main/binary-arm64/Packages.gz
+SHA1:
+ 02440e76f86df7c801c933dcdb4db4841dc403c9              996 main/binary-amd64/Packages
+ df39fe5d3e4f3219ee6f42535463871ccf34037f              649 main/binary-amd64/Packages.gz
+ 164779ed5b35f25f53af3054603d784931bd5470              996 main/binary-arm64/Packages
+ fec69f9a27c41b52d70b1de36e913a638ffd4697              652 main/binary-arm64/Packages.gz
+SHA256:
+ 1e33aa8f709294152f8d2c8c04b7d4a7dc0f23b4f78527ba670bf3e7cef2cbbd              996 main/binary-amd64/Packages
+ 3c43e7556fc9b39ac5f448a217139a8fc9365e6f2368e20c409c4d672a244983              649 main/binary-amd64/Packages.gz
+ 5ef20210141b3d79ae51f15b46df7d72e83f1b616b66d433c0155750342c10ae              996 main/binary-arm64/Packages
+ b3b1e9c5b27997deabb3bedeefff3bff9cedd5c09ddd023bd71814a453d5929d              652 main/binary-arm64/Packages.gz
+SHA512:
+ 935b3218910e03490feb2de6bfd278b0db97f9493069212378d427dbf6a9cee87c8eb3e13e11efc66e8503142993d6ec068db14748e84c402e5def2bb231c612              996 main/binary-amd64/Packages
+ 464bbe5ac6c349838e53973785cafdda3c9a4fec5562d4b631f2afd904c9b392dc9f1fdf575401228e87f468b8d1ba1d4acc87e8a436f23547940448ee60788b              649 main/binary-amd64/Packages.gz
+ 1b224de3c8f00bebe3fb57d5c66e8613afc1af21c582833e19d4f025098131490710588c8e653f5b3e61f15892cef1e104027327d251cd7fb321d3464930766c              996 main/binary-arm64/Packages
+ 5a7f82c49c1fe50de95bb722a13f0e15448346b2efe3e3fd4369c558b3d8efdb8801ad2d4a7c71287cc3764ba72006094febd1769b07218f967d9f2fe6615c17              652 main/binary-arm64/Packages.gz

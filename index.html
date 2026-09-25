@@ -1,0 +1,13 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>home-automation apt repository</title>
+<h1>home-automation apt repository</h1>
+<p>Signed packages for the home-automation service (amd64, arm64). Source is not public.</p>
+<pre>
+sudo install -d -m 0755 /etc/apt/keyrings
+curl -fsSL https://martin-schaub.github.io/home-automation-apt/key.gpg | sudo tee /etc/apt/keyrings/homeautomation.gpg &gt;/dev/null
+echo "deb [signed-by=/etc/apt/keyrings/homeautomation.gpg] https://martin-schaub.github.io/home-automation-apt homeautomation main" \
+  | sudo tee /etc/apt/sources.list.d/homeautomation.list
+sudo apt update &amp;&amp; sudo apt install homeautomation
+</pre>
+<p>Signing key fingerprint: <code>4F78B8CE6A0131BBBD7B56B400DAE2EB349E4002</code></p>
