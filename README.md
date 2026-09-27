@@ -30,11 +30,11 @@ placeholder `/etc/homeautomation/config.yaml` and
 
 After that, releases arrive with a normal `apt update && apt upgrade`; the
 package restarts the service on upgrade if it is enabled. The repository
-keeps the newest 10 versions per architecture, so rolling back to a previous
-release is:
+keeps the newest 10 versions of the package per architecture, so rolling back
+to a previous release is:
 
 ```sh
-sudo apt install homeautomation=<version>
+sudo apt install homeautomation=0.0.1  # any older version still in the pool
 ```
 
 The suite is called `homeautomation` rather than `stable` so it can't be
