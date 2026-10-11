@@ -1,0 +1,14 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>home-automation Alpine repository</title>
+<h1>home-automation Alpine repository</h1>
+<p>Signed packages for the home-automation service (x86_64, aarch64).</p>
+<pre>
+wget -O /etc/apk/keys/homeautomation-1.rsa.pub https://martin-schaub.github.io/home-automation-apt/alpine/homeautomation-1.rsa.pub
+echo https://martin-schaub.github.io/home-automation-apt/alpine &gt;&gt; /etc/apk/repositories
+apk update &amp;&amp; apk add homeautomation
+</pre>
+<p>Signing key SHA-256 (<code>openssl rsa -pubin -in /etc/apk/keys/homeautomation-1.rsa.pub -outform DER | sha256sum</code>):
+<code>ece3ae43658fdcaf82289b0d1eb00eb7774bdfb781731e22bacf73179a8842a2</code>. This page comes from the same site as the key, so
+check it against a fingerprint obtained out of band (e.g. from the
+maintainer directly).</p>
