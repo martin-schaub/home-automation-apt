@@ -120,3 +120,23 @@ Description: Home automation service (Somfy, Shelly, Fronius)
  authenticated Web UI. Runs as a systemd service under a dedicated
  unprivileged user; configuration lives in /etc/homeautomation.
 
+Package: homeautomation
+Architecture: arm64
+Version: 0.1.3
+Priority: optional
+Section: misc
+Maintainer: Martin Schaub <martin.schaub@gmail.com>
+Installed-Size: 12981
+Depends: systemd, passwd, ca-certificates
+Filename: pool/main/h/homeautomation/homeautomation_0.1.3_arm64.deb
+Size: 5921496
+MD5sum: c539cf63d24471f113f21b5e12d5cafb
+SHA1: 0f3f196c4657b824e913ca6da7c0d4172e9ba48a
+SHA256: 2e0cb120e651e984fb173313ec5eb5f3a1b95eb0e401bfbd7e7a348c92a9ab8c
+SHA512: 7c2ed3d7d235035e1214b7f146045efc9375814272350fbbe1e44046f34606c13c6ddca31a8c058d9c39736739fedda4c68c6e65a8c46202e95dfa78f37394bd
+Description: Home automation service (Somfy, Shelly, Fronius)
+ Polls Somfy blinds, Shelly awnings, a Fronius inverter and Swiss weather
+ data, runs independent automations against them, and serves a minimal
+ authenticated Web UI. Runs as a systemd service under a dedicated
+ unprivileged user; configuration lives in /etc/homeautomation.
+

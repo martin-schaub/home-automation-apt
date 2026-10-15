@@ -1,27 +1,27 @@
 Architectures: amd64 arm64
 Codename: homeautomation
 Components: main
-Date: Wed, 14 Oct 2026 19:03:27 +0000
+Date: Thu, 15 Oct 2026 19:27:34 +0000
 Label: home-automation
 Origin: home-automation
 Suite: homeautomation
 MD5Sum:
- 1eae134facc31913ccc88d90d67027e6             5690 main/binary-amd64/Packages
- 8a4026474e469639d599738608e5dde9             1625 main/binary-amd64/Packages.gz
- da39a7b416ab40711a570a2be318ff74             5690 main/binary-arm64/Packages
- 78c84109d5ff89b6c037a0dfe3d881e5             1624 main/binary-arm64/Packages.gz
+ 5ccbbdc809ed1f1d80692ee7ed09608c             6617 main/binary-amd64/Packages
+ 81fa98d80b5418c27992e6f1088dcff4             1816 main/binary-amd64/Packages.gz
+ 7b5d223358cc067c933ef9d8e66d4ab4             6617 main/binary-arm64/Packages
+ f7eefbb89de5fed75916bb0673eb8cbc             1813 main/binary-arm64/Packages.gz
 SHA1:
- 499304119362d3e87ba601f48f696c4a5b5053cb             5690 main/binary-amd64/Packages
- fb951ea7e11fbffff8e27e4e2d15b446719b1679             1625 main/binary-amd64/Packages.gz
- 0968708e66c677b7c8f0b4f6a280d68b76a9a02e             5690 main/binary-arm64/Packages
- dba7dc35ea41ee285130b5e8c47d3e9fee17aece             1624 main/binary-arm64/Packages.gz
+ f65a4e4d2f4b177beb2700d9909b1f723137e0fb             6617 main/binary-amd64/Packages
+ 9cdddc85e9d1dcc04a58550e9aeb9f7737dbabe4             1816 main/binary-amd64/Packages.gz
+ 1b5ab353220d452b336c262edac7d8d9cc7040e1             6617 main/binary-arm64/Packages
+ e96417cbb4c1f35b94a1913c7329171f44f7a8b7             1813 main/binary-arm64/Packages.gz
 SHA256:
- e7acae3fa727c812ac8ba5d74894496d66f03e744a0dc0e5227eb17a900fee54             5690 main/binary-amd64/Packages
- 9c366da39d29b30740319d69b239b87a9413d89c79fd2b183f7de35b5e0eea5d             1625 main/binary-amd64/Packages.gz
- bfa680f0ec3d18b4ade6d960bf80f94b4a9f7569a7a63d4224f5e82e4bbe222a             5690 main/binary-arm64/Packages
- eb1abac7f68535c55af4a9fabe9add3c2ad6a3e180e90883d7b490a240e0a387             1624 main/binary-arm64/Packages.gz
+ 181db704429eb0ccb48e721d90f3739f207c568c44b0f3c3a89a885015cd7d2e             6617 main/binary-amd64/Packages
+ f242d18c1014bec16748f2989a5b89f33e9c7544a409e9c7f5945950b510e62a             1816 main/binary-amd64/Packages.gz
+ b68a210e2fe5434e94cdaeb7bded0ea6d37202a278129ccb6846b37dd3ee4903             6617 main/binary-arm64/Packages
+ 9ae54610bdb8498d43ee01149a112114eac770032728a82b29d5a2fd59b9e08c             1813 main/binary-arm64/Packages.gz
 SHA512:
- b9086d43dae96c2595d8db8371d4020375007e43a6da03f318f235c1e687badadc1d08448501b3fe999adf3e13a4878f364bb8057bdef267f96c242eb2762653             5690 main/binary-amd64/Packages
- ca35fade6d533340d6578a1e747adfd58c6cd6197356a5d064a0f00a4d8e2f3315807b5ff4af0bed5e2364f205cce7466ddbf36b95b9efb3f228a104c457e991             1625 main/binary-amd64/Packages.gz
- 3dcffca3992f86c78ec2cfc79781d1695489b350e1576bd2b65451735f565ae1473dc789900f6ce47698567ae825d8c50219bceedc133cb680747641c3215cee             5690 main/binary-arm64/Packages
- a82fc119affde144d2c2bc04bfd0bcd02711082c2e8389fb0df08dc9bc099714a62a99ad851be2423e6b0c2b6b5e55d4c0e8dfcf96e4f2022366c0b270ee968d             1624 main/binary-arm64/Packages.gz
+ 49acfeb319af476a930d4efbb882771c19e8cca81d80073e0387ca9851489b572fc8c0f6e7e6094c3306aad10758118e8bbb4ef6f5dda584f454251ed7df3234             6617 main/binary-amd64/Packages
+ 95d646b6ad7f49fb5d7d0d4d664cfd03f1daf17e676e1e7bcf09b438509334ccf6a913bb6171cc126b90046674aad64964a64c6cccb4c292bd2685b42a198a34             1816 main/binary-amd64/Packages.gz
+ c6d51d62d71d0b07948641faf633ba37a401b687860ac67f509b10173f8fc3d142cac6dd3db70b74d391bb0de403561c5b46ec8cf90e576b1e24ab637164fb0f             6617 main/binary-arm64/Packages
+ bd5fc0eedf43d61bea02f65efe5733da81785da39697bcc504d99a93faeb5a64b1275f4ad27d2735469055edc3a167b714adfcbb852e7e2c49d9ef18b7b3180d             1813 main/binary-arm64/Packages.gz
